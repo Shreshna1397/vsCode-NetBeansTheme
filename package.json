@@ -14,7 +14,7 @@
   },
   "license": "See license in LICENSE file.",
   "homepage": "https://github.com/Shreshna1397/vsCode-NetBeansTheme",
-  "keywords": ["vscode light theme", "NetBeans", "Light", "netbeans light plus"],
+  "keywords": ["vscode light theme", "NetBeans", "Light", "netbeans light plus", "light themes"],
   "icon": "./images/paint.ico",
   "publisher": "ShreshnaBrahma1397",
   "repository": {
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "NetBeansLight C++",
+        "label": "NetBeans Light Theme C++",
         "uiTheme": "vs",
         "path": "./themes/NetBeansLight C++-color-theme.json"
       }
