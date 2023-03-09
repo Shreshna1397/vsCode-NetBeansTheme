@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "NetBeans Light Theme C++",
+        "label": "NetBeans Light Theme (C++/C)",
         "uiTheme": "vs",
         "path": "./themes/NetBeansLight C++-color-theme.json"
       }
