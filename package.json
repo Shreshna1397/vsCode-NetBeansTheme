@@ -1,0 +1,29 @@
+{
+  "name": "netbeanslight-plus",
+  "displayName": "NetBeansLight Plus",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Shreshna Brahma"
+  },
+  "license": "See license in LICENSE file.",
+  "homepage": "",
+  "keywords": ["vscode light theme", "NetBeans", "Light", "netbeans light plus"],
+  "icon": "paint.ico",
+  "publisher": "ShreshnaBrahma1397",
+  "contributes": {
+    "themes": [
+      {
+        "label": "NetBeansLight C++",
+        "uiTheme": "vs",
+        "path": "./themes/NetBeansLight C++-color-theme.json"
+      }
+    ]
+  }
+}
